@@ -1,0 +1,30 @@
+body{
+    /* margin: 0; */
+    height: 100vh;
+    background-image: url(download\ \(5\).jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+}
+.contenair{
+    /* border:1px white solid; */
+    width: 500px;
+    padding: 30px;
+    padding-bottom: 100px;
+    font-style: oblique;
+     background: rgba(255,255,255,0.7);
+    text-align: center;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+.login{
+    margin-bottom: 15px;
+}
+#male{
+    margin-right: 10px;
+}
